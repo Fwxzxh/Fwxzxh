@@ -1,5 +1,5 @@
 
-<img src="2020-10-18_17-38.png" alt="Lit me" width="700">
+<img src="2020-10-18_17-38.png" alt="Lit me" width="600">
 <!--
 **Fwxzxh/Fwxzxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
