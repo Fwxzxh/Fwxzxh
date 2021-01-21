@@ -1,8 +1,10 @@
 
 <img src="2020-10-18_17-38.png" alt="Lit me" width="600">
-
+  
+  
 * My Brain: [Brain.dump()](https://fwxzxh.github.io/Brain.dump/Publ/)
 * My Dots: [(.dot)files](https://github.com/Fwxzxh/dotfiles)
+* Weeb Stuff: [AniList](https://anilist.co/user/Fwxzxh/)
 
 
 <!--
