@@ -5,7 +5,7 @@
 
 ## My links:
 
-* My Brain: [Brain.dump()](https://fwxzxh.github.io/Brain.dump/Publ/)
+* My Brain: [Brain.dump()](https://wiki.fwxzxh.dev/)
 * My Dots: [(.dot)files](https://github.com/Fwxzxh/dotfiles)
 * Weeb Stuff: [AniList](https://anilist.co/user/Fwxzxh/)
 
